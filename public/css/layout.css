@@ -325,6 +325,25 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+.go {
+   width:50%;
+}
+
+.java {
+   width:30%;
+}
+
+.javascript {
+   width:80%;
+}
+
+.php {
+   width:80%;
+}
+.aws {
+   width:50%;
+}
+
 .photoshop {
   	width: 60%;
   	-moz-animation: photoshop 2s ease;

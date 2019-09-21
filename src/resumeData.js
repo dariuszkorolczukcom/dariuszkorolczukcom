@@ -6,7 +6,7 @@ let resumeData = {
   skypeid: "dariusz-korolczuk",
   email: "dariuszdaroukorolczuk@gmail.com",
   roleDescription:
-    "I like working with code and AWS, learning new things and my playing bass guitar.",
+    "I like working with code and AWS, learning new things and playing my bass guitar.",
   socialLinks: [
     {
       name: "linkedin",
@@ -29,14 +29,14 @@ let resumeData = {
       MonthOfPassing: "-",
       YearOfPassing: "-",
       Achievements:
-        "Learned a lot about society and quit the uni on my 5th year to start a job"
+        "Learned a lot about society and quit the uni on my 5th year to start a job."
     }
   ],
   work: [
     {
       CompanyName: "Invosys LTD",
       specialization: "Developer",
-      MonthOfLeaving: "Jan",
+      MonthOfLeaving: "Oct",
       YearOfLeaving: "2018",
       Achievements:
         "Rebuild legacy PHP router ordering system to Reactjs frontend and golang backend, and then added on-demand email and sms router tracking information."
@@ -64,7 +64,8 @@ let resumeData = {
     {
       name: "PatrykLuczynski.pl",
       description: "SPA for a freelance musician",
-      imgurl: "images/portfolio/patrykluczynski.png"
+      imgurl: "images/portfolio/patrykluczynski.png",
+      url: "http://www.patrykluczynski.pl"
     }
   ],
   testimonials: [

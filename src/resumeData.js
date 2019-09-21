@@ -20,7 +20,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am a developer working for a telecommunications service provider. I am a self taught Full Stack Web Developer, currently diving deeper into Java. I believe that to be successful in life, one needs to work on his hobby every day. Mine is coding.",
+    "I am a self taught Full Stack Web Developer, currently diving deeper into Java. I work for a major telecommunications service provider.  I believe that to be successful in life, one needs to work on his hobby every day. Mine is coding.",
   address: "Manchester",
   education: [
     {

@@ -66,6 +66,12 @@ let resumeData = {
       description: "SPA for a freelance musician",
       imgurl: "images/portfolio/patrykluczynski.png",
       url: "http://www.patrykluczynski.pl"
+    },
+    {
+      name: "Bathtuber.co.uk",
+      description: "SPA for a handcraft business",
+      imgurl: "images/portfolio/bathtuber.png",
+      url: "http://www.bathtuber.co.uk"
     }
   ],
   testimonials: [

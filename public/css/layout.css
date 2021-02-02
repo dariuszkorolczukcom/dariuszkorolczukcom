@@ -330,18 +330,18 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .java {
-   width:30%;
+   width:60%;
 }
 
 .javascript {
-   width:80%;
+   width:50%;
 }
 
-.php {
-   width:80%;
+.python {
+   width:40%;
 }
 .aws {
-   width:50%;
+   width:70%;
 }
 
 .photoshop {

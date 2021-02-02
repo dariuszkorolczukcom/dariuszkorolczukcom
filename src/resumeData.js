@@ -45,28 +45,22 @@ let resumeData = {
   skillsDescription: "Programming Languages",
   skills: [
     {
+      skillname: "AWS"
+    },
+    {
+      skillname: "Java"
+    },
+    {
       skillname: "Go"
     },
     {
       skillname: "JavaScript / Reactjs"
     },
     {
-      skillname: "PHP"
+      skillname: "Python"
     },
-    {
-      skillname: "Java"
-    },
-    {
-      skillname: "AWS"
-    }
   ],
   portfolio: [
-    {
-      name: "PatrykLuczynski.pl",
-      description: "SPA for a freelance musician",
-      imgurl: "images/portfolio/patrykluczynski.png",
-      url: "http://www.patrykluczynski.pl"
-    },
     {
       name: "Bathtuber.co.uk",
       description: "SPA for a handcraft business",

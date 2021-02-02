@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { BiLogIn } from 'react-icons/bi';
 export default class Header extends Component {
   render() {
     let resumeData = this.props.resumeData;
@@ -41,6 +42,11 @@ export default class Header extends Component {
               <li>
                 <a className="smoothscroll" href="#contact">
                   Contact
+                </a>
+              </li>
+              <li>
+                <a href="https://auth.dariuszkorolczuk.com/">
+                <BiLogIn size="20" /> Login
                 </a>
               </li>
             </ul>

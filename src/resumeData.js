@@ -6,7 +6,7 @@ let resumeData = {
   skypeid: "dariusz-korolczuk",
   email: "dariuszdaroukorolczuk@gmail.com",
   roleDescription:
-    "I like working with code and AWS, learning new things and playing my bass guitar.",
+    "I like working with nodejs, golang and AWS, learning new things and playing my bass guitar.",
   socialLinks: [
     {
       name: "linkedin",
@@ -20,7 +20,7 @@ let resumeData = {
     }
   ],
   aboutme:
-    "I am a self taught Full Stack Web Developer, currently diving deeper into Java. I work for a major telecommunications service provider.  I believe that to be successful in life, one needs to work on his hobby every day. Mine is coding.",
+    "I am a backend developer who enjoys good RESTful APIs and microservices on AWS. I play bass, vr sculpt, 3d print and travel. My favourite country is the one I have not yet visited",
   address: "Manchester",
   education: [
     {
@@ -29,7 +29,7 @@ let resumeData = {
       MonthOfPassing: "-",
       YearOfPassing: "-",
       Achievements:
-        "Learned a lot about society and quit the uni on my 5th year to start a job."
+        "Learned a lot about society and quit the uni on my 5th year to start a job. Developed very good soft skills"
     }
   ],
   work: [
@@ -48,13 +48,13 @@ let resumeData = {
       skillname: "AWS"
     },
     {
+      skillname: "JavaScript / Reactjs"
+    },
+    {
       skillname: "Java"
     },
     {
       skillname: "Go"
-    },
-    {
-      skillname: "JavaScript / Reactjs"
     },
     {
       skillname: "Python"
@@ -62,10 +62,10 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Bathtuber.co.uk",
-      description: "SPA for a handcraft business",
-      imgurl: "images/portfolio/bathtuber.png",
-      url: "http://www.bathtuber.co.uk"
+      name: "Space Birthday",
+      description: "App to calculate your age and next birthday on planets of solar system (excluding earth)",
+      imgurl: "images/portfolio/space-birthday.png",
+      url: "http://space-birthday.net"
     }
   ],
   testimonials: [

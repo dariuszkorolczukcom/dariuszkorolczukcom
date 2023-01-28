@@ -4,7 +4,7 @@ let resumeData = {
   role: "Full stack developer",
   linkedinId: "dariusz-korolczuk",
   skypeid: "dariusz-korolczuk",
-  email: "dariuszdaroukorolczuk@gmail.com",
+  email: "dkorolczuk86@gmail.com",
   roleDescription:
     "I like working with nodejs, golang and AWS, learning new things and playing my bass guitar.",
   socialLinks: [
@@ -21,7 +21,7 @@ let resumeData = {
   ],
   aboutme:
     "I am a backend developer who enjoys good RESTful APIs and microservices on AWS. I play bass, vr sculpt, 3d print and travel. My favourite country is the one I have not yet visited",
-  address: "Manchester",
+  address: "Bialystok, Poland",
   education: [
     {
       UniversityName: "University of Bialystok",

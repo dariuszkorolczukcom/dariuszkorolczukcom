@@ -18,6 +18,10 @@ export default class Footer extends Component {
                   );
                 })}
             </ul>
+            <p>
+              Splot: <a href="/splot/pomoc/">Pomoc</a> ·{" "}
+              <a href="/splot/prywatnosc/">Polityka prywatności</a>
+            </p>
           </div>
           <div id="go-top">
             <a className="smoothscroll" title="Back to Top" href="#home">
